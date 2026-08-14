@@ -1,0 +1,243 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+
+const [onshapeFile, mcmasterFile, outputFile] = process.argv.slice(2);
+
+if (!outputFile) {
+  console.error(
+    "Usage: node compile-socket-head-cap-screw.js <onshape-family.json> <mcmaster-presentation.json> <output.json>"
+  );
+  process.exit(1);
+}
+
+const onshape = JSON.parse(fs.readFileSync(onshapeFile, "utf8"));
+const mcmaster = JSON.parse(fs.readFileSync(mcmasterFile, "utf8"));
+const familyId = path.basename(onshapeFile, path.extname(onshapeFile));
+
+if (!/^[0-9a-f]{24}$/i.test(familyId)) {
+  throw new Error("Name the Onshape input <familyId>.json so its family ID is unambiguous");
+}
+
+const domains = Object.fromEntries(
+  onshape.map(({ displayName, parameterId, parameterValues }) => [
+    displayName,
+    { id: parameterId, values: parameterValues },
+  ])
+);
+
+for (const name of ["Size", "Drive type", "Length", "Thread length", "Material", "Finish"]) {
+  if (!domains[name]) throw new Error(`Missing Onshape parameter: ${name}`);
+}
+
+const materialMap = {
+  "18-8 Stainless Steel": ["Stainless Steel 18-8", "Plain"],
+  "Black-Oxide 18-8 Stainless Steel": ["Stainless Steel 18-8", "Black"],
+  "Chrome-Plated 18-8 Stainless Steel": ["Stainless Steel 18-8", "Chrome"],
+  "Highly Corrosion-Resistant 316 Stainless Steel": ["Stainless Steel 316", "Plain"],
+};
+
+const materialLabels = new Set([
+  ...Object.keys(materialMap),
+  "Silver-Plated 18-8 Stainless Steel",
+  "High-Strength Highly Corrosion-Resistant 316 Stainless Steel",
+  "High-Temperature High-Strength A286 Stainless Steel",
+]);
+
+const threadLabel = /^(?:\d+(?:\/\d+)?"?-\d+(?:\.\d+)?|M\d+(?:\.\d+)? Ã— \d+(?:\.\d+)? mm)$/;
+const counts = {};
+const groups = new Map();
+const tableCounts = new Map();
+
+for (const part of mcmaster.parts) {
+  tableCounts.set(part.tableIndex, (tableCounts.get(part.tableIndex) || 0) + 1);
+}
+
+const mainTable = [...tableCounts].sort((a, b) => b[1] - a[1])[0][0];
+let material;
+let size;
+
+function reject(reason) {
+  counts[reason] = (counts[reason] || 0) + 1;
+}
+
+function inches(text) {
+  const value = text.replaceAll('"', "").trim();
+  if (/^\d+(?:\.\d+)?$/.test(value)) return Number(value);
+  const match = value.match(/^(?:(\d+)\s+)?(\d+)\/(\d+)$/);
+  return match ? Number(match[1] || 0) + Number(match[2]) / Number(match[3]) : NaN;
+}
+
+function nearest(text, allowed) {
+  const value = inches(text);
+  if (!Number.isFinite(value)) return null;
+
+  const match = allowed
+    .map((candidate, order) => ({
+      candidate,
+      order,
+      difference: Math.abs(Number(candidate) - value),
+    }))
+    .filter(({ difference }) => Number.isFinite(difference))
+    .sort((a, b) => a.difference - b.difference || a.order - b.order)[0];
+
+  return match && match.difference <= 0.001 ? match.candidate : null;
+}
+
+function onshapeSize(label) {
+  const inchSize = label.includes('"');
+  const value = label.replaceAll('"', "");
+  return !inchSize && /^\d+-/.test(value) ? `#${value}` : value;
+}
+
+function candidateOrder(a, b) {
+  return (
+    Number(a.military) - Number(b.military) ||
+    a.packageQuantity - b.packageQuantity ||
+    a.partNumber.localeCompare(b.partNumber)
+  );
+}
+
+const parts = [...mcmaster.parts].sort(
+  (a, b) => a.tableIndex - b.tableIndex || a.rowIndex - b.rowIndex
+);
+
+for (const part of parts) {
+  if (part.tableIndex !== mainTable) {
+    reject("not the main product table");
+    continue;
+  }
+
+  for (const cell of part.context.flat()) {
+    if (materialLabels.has(cell)) material = cell;
+    if (threadLabel.test(cell)) size = cell;
+  }
+
+  if (!materialMap[material]) {
+    reject(`material not mapped: ${material || "unknown"}`);
+    continue;
+  }
+
+  if (size.startsWith("M")) {
+    reject("metric row in an ANSI family");
+    continue;
+  }
+
+  const sizeValue = onshapeSize(size);
+  if (!domains.Size.values.includes(sizeValue)) {
+    reject(`size absent from Onshape: ${sizeValue}`);
+    continue;
+  }
+
+  const lengthValue = nearest(part.cells[0], domains.Length.values);
+  if (!lengthValue) {
+    reject(`length absent from Onshape: ${part.cells[0]}`);
+    continue;
+  }
+
+  if (part.cells[3] !== "Fully Threaded") {
+    reject("partial thread length unavailable from McMaster table");
+    continue;
+  }
+
+  const threadLengthValue = nearest(part.cells[0], domains["Thread length"].values);
+  if (!threadLengthValue) {
+    reject(`thread length absent from Onshape: ${part.cells[0]}`);
+    continue;
+  }
+
+  const [materialValue, finishValue] = materialMap[material];
+  if (!domains.Material.values.includes(materialValue)) {
+    throw new Error(`Onshape material is unavailable: ${materialValue}`);
+  }
+  if (!domains.Finish.values.includes(finishValue)) {
+    throw new Error(`Onshape finish is unavailable: ${finishValue}`);
+  }
+
+  const parameters = {
+    [domains.Size.id]: sizeValue,
+    [domains["Drive type"].id]: "Hex",
+    [domains.Length.id]: lengthValue,
+    [domains["Thread length"].id]: threadLengthValue,
+    [domains.Material.id]: materialValue,
+    [domains.Finish.id]: finishValue,
+  };
+  const key = JSON.stringify(parameters);
+  const candidate = {
+    partNumber: part.partNumber,
+    military: part.cells[6] !== "â€”",
+    packageQuantity: Number(part.cells[7]) || Number.MAX_SAFE_INTEGER,
+  };
+
+  if (!groups.has(key)) groups.set(key, { parameters, candidates: [] });
+  groups.get(key).candidates.push(candidate);
+}
+
+const assignments = [];
+let configurationsWithAlternatives = 0;
+let acceptedMcMasterRows = 0;
+
+for (const group of groups.values()) {
+  group.candidates.sort(candidateOrder);
+  acceptedMcMasterRows += group.candidates.length;
+  if (group.candidates.length > 1) configurationsWithAlternatives++;
+
+  const assignment = {
+    parameters: group.parameters,
+    partNumber: group.candidates[0].partNumber,
+  };
+  assignments.push(assignment);
+
+  if (group.parameters[domains.Material.id] === "Stainless Steel 316") {
+    assignments.push({
+      parameters: {
+        ...group.parameters,
+        [domains.Material.id]: "Stainless Steel",
+      },
+      partNumber: assignment.partNumber,
+    });
+  }
+}
+
+const parameterOrder = [
+  domains.Size,
+  domains["Drive type"],
+  domains.Length,
+  domains["Thread length"],
+  domains.Material,
+  domains.Finish,
+];
+
+assignments.sort((a, b) => {
+  for (const domain of parameterOrder) {
+    const difference =
+      domain.values.indexOf(a.parameters[domain.id]) -
+      domain.values.indexOf(b.parameters[domain.id]);
+    if (difference) return difference;
+  }
+  return a.partNumber.localeCompare(b.partNumber);
+});
+
+const result = {
+  schemaVersion: 1,
+  familyId,
+  policy: {
+    genericStainless: "Stainless Steel 316",
+    partialThreads: "excluded when McMaster does not state thread length",
+    duplicateChoice: "non-military, then smallest package, then lowest part number",
+  },
+  summary: {
+    capturedMcMasterParts: mcmaster.parts.length,
+    acceptedMcMasterRows,
+    distinctSourceConfigurations: groups.size,
+    assignments: assignments.length,
+    configurationsWithAlternatives,
+    rejectedMcMasterRows: Object.values(counts).reduce((sum, count) => sum + count, 0),
+    rejectionReasons: counts,
+  },
+  assignments,
+};
+
+fs.writeFileSync(outputFile, `${JSON.stringify(result, null, 2)}\n`);
+console.log(JSON.stringify(result.summary, null, 2));
