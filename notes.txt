@@ -1,0 +1,10 @@
+https://cad.onshape.com/glassworks/explorer/#/StandardContent/getStandardContentList
+https://cad.onshape.com/glassworks/explorer/#/StandardContent/getParameterValuesForId
+https://cad.onshape.com/glassworks/explorer/#/StandardContent/setCustomParameters
+
+
+
+general process for making batch api calls
+- log into cad.onshape.com
+- devtools snippet, new source with js code
+- run in browser for free lol

@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "0c9a5360bb68caefd51e5978",
+    "component": "Prevailing torque nut thin ISO 10511",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "063f56a0ccde454c5220acf6",
+    "component": "Acorn high crown nut",
+    "category": "Nuts",
+    "class": "Cap nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "7642696f684d2167d51327d5",
+    "component": "Acorn low crown nut",
+    "category": "Nuts",
+    "class": "Cap nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "bcd39df52bab78c0b9f19c14",
+    "component": "Countersunk bolt",
+    "category": "Bolts & screws",
+    "class": "Countersunk bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "223053573dbacf62cf7bdaa0",
+    "component": "Extra-duty spring lock washer",
+    "category": "Washers",
+    "class": "Spring lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "fde46f86a6fd40026e545dd3",
+    "component": "Heavy-duty spring lock washer",
+    "category": "Washers",
+    "class": "Spring lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "7b74a316d3bdc5235f5c9578",
+    "component": "Heavy hex jam nut",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "f667e70c7d6cabf7682d89bb",
+    "component": "Heavy hex nut",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "9a4911a7c0eefd05332fc617",
+    "component": "Heavy hex slotted nut",
+    "category": "Nuts",
+    "class": "Hex slotted nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "130b11fef6d67391638ed69b",
+    "component": "Heavy square nut",
+    "category": "Nuts",
+    "class": "Square nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "cc90fc4df5e6ba8405afbf8d",
+    "component": "Hex flange nut",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "7badcb5fd65fd2a0a2c6dda1",
+    "component": "Heavy hex flat jam nut",
+    "category": "Nuts",
+    "class": "Hex flat nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "e5d57d14e4e2f11100632e1d",
+    "component": "Heavy hex flat nut",
+    "category": "Nuts",
+    "class": "Hex flat nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "6a4c4d2402dcab49596e2e59",
+    "component": "Hex flat jam nut",
+    "category": "Nuts",
+    "class": "Hex flat nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "a4fe285a7cd5c401ac6f343f",
+    "component": "Hex flat nut",
+    "category": "Nuts",
+    "class": "Hex flat nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "cd1895498af1b98bb6d0dc43",
+    "component": "Hex lag screw",
+    "category": "Bolts & screws",
+    "class": "Lag screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "6bb0fcef4097108f5451570c",
+    "component": "Hex machine screw nut",
+    "category": "Nuts",
+    "class": "Machine screw nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "bf197eded78920fb21921e0f",
+    "component": "Hex nut",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "c4a6973b64d418fb99d4b44c",
+    "component": "Hex thick nut",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "884a2fbe0eb4bf51ce181ed5",
+    "component": "Hex thick slotted nut",
+    "category": "Nuts",
+    "class": "Hex slotted nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "5bc1a40f251693bba08efbef",
+    "component": "Socket head shoulder screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "30a42c777db433f477cf2aa7",
+    "component": "High collar spring lock washer",
+    "category": "Washers",
+    "class": "Spring lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "047de99251bde16077b76a54",
+    "component": "Heavy hex bolt",
+    "category": "Bolts & screws",
+    "class": "Hex bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "856af42822e24d01295cfbfd",
+    "component": "Heavy hex finished bolt",
+    "category": "Bolts & screws",
+    "class": "Hex bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "7ce4c295c285ed0767bb7cdb",
+    "component": "Heavy hex structural bolt",
+    "category": "Bolts & screws",
+    "class": "Hex bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ca27c827f72b0b912bc67a54",
+    "component": "Hex bolt",
+    "category": "Bolts & screws",
+    "class": "Hex bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "02034cb4070d794a7efc7fc0",
+    "component": "Hex flange bolt",
+    "category": "Bolts & screws",
+    "class": "Hex bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "859bce1c0efe182802d1af23",
+    "component": "Regular spring lock washer",
+    "category": "Washers",
+    "class": "Spring lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d4ffd375a60bc43c1825d8f3",
+    "component": "Round head bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "b53f9285cc1c5d045d27b57f",
+    "component": "Round head square neck bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ea77839b068c59a025dddcb5",
+    "component": "Socket head cap screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "fbefe5e1d0f2996e54d9dc39",
+    "component": "Square head bolt",
+    "category": "Bolts & screws",
+    "class": "Square head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "59a2c9aa7c88f582d7ce7cb9",
+    "component": "Type A flat washer",
+    "category": "Washers",
+    "class": "Type A plain washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "dc89cccf1428b78b5d54e495",
+    "component": "Type A internal tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "6e6f8d196adc33a477c24cef",
+    "component": "Type B internal tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "095be948d4862aca77d5cee2",
+    "component": "Type B narrow flat washer",
+    "category": "Washers",
+    "class": "Type B plain washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d2adb0b4d114a574919fe89d",
+    "component": "Type B regular flat washer",
+    "category": "Washers",
+    "class": "Type B plain washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "83b961bea944baa3061fce00",
+    "component": "Type B wide flat washer",
+    "category": "Washers",
+    "class": "Type B plain washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "c78dc77064a90b4168c677cf",
+    "component": "Cone point slotted headless set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ad7bb206859df8478d2f89c6",
+    "component": "Cup point slotted headless set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "38106ee0b5f36f8a708fd7d9",
+    "component": "Dog point slotted headless set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d7f9e5b113a38eb1add03d68",
+    "component": "Flat point slotted headless set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ca82cb5b2b6a0ea3233d1131",
+    "component": "Half dog point slotted headless set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "21cf7f4c42edcd004b2764d1",
+    "component": "Oval point slotted headless set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "478c9a3123454f3ded0191d1",
+    "component": "Cone point square head set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (square head)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d987a1217fdc794fda98aa54",
+    "component": "Cup point square head set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (square head)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "5644ab68facf5fbeed2298a7",
+    "component": "Dog point square head set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (square head)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "45b6431913241bcea8cdf6d7",
+    "component": "Flat point square head set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (square head)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "eb5aaee5ec7e0722606a9a92",
+    "component": "Half dog point square head set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (square head)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "e24eb66aa5105dd44498c72b",
+    "component": "Oval point square head set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (square head)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "37bc3fb4fc1805a0ba50da4f",
+    "component": "Square lag screw",
+    "category": "Bolts & screws",
+    "class": "Lag screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "16380848d7da8c9d4b6be42f",
+    "component": "Square machine screw nut",
+    "category": "Nuts",
+    "class": "Machine screw nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2bb979f8a2176278e032d0da",
+    "component": "Square nut",
+    "category": "Nuts",
+    "class": "Square nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d431202ccaad375c736c0b2b",
+    "component": "T-slot nut",
+    "category": "Nuts",
+    "class": "T-slot nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2c6197da800d4e4c0c720674",
+    "component": "Type A external tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "289045046b1c4c3855ed1aac",
+    "component": "Type A heavy internal tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "e282792e166790495aa772a4",
+    "component": "Type A internal/external tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "cd5c261ff62ec75c3109bae2",
+    "component": "Type B external tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "f263dfc693b7040f4ce19f2b",
+    "component": "Type B heavy internal tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "1bc6ffbab3929f4bf1f06779",
+    "component": "Type B internal/external tooth lock washer",
+    "category": "Washers",
+    "class": "Toothed lock washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ae475310dfbb939ed67be620",
+    "component": "Binding head miniature screw",
+    "category": "Bolts & screws",
+    "class": "Miniature screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2b4b321e0240e887f7634920",
+    "component": "Countersunk square neck bolt",
+    "category": "Bolts & screws",
+    "class": "Countersunk bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "f8137bbfb7fdbb59284c8708",
+    "component": "Fillister head chamfered miniature screw",
+    "category": "Bolts & screws",
+    "class": "Miniature screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "41259cdce7404da38df52df6",
+    "component": "Fillister head oval crown miniature screw",
+    "category": "Bolts & screws",
+    "class": "Miniature screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "240f98acca4fa8c5cd00d166",
+    "component": "Countersunk flat head miniature screw",
+    "category": "Bolts & screws",
+    "class": "Miniature screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "7479c87e19f72f75c56eb9ca",
+    "component": "Socket button head cap screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "a3383ed73d54c31e82ef7695",
+    "component": "Socket countersunk head cap screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "f917cee231d6f8648ae4d143",
+    "component": "Cone point hex socket set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "5e1a8ed2f2da6056bd2a9eb9",
+    "component": "Cup point hex socket set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "791d0525dbfaaf4ef19fe1f3",
+    "component": "Flat point hex socket set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "6a1bb71cfe7ce8963f9ff7cc",
+    "component": "Half dog point hex socket set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "3fb6de76f6fc2416af345bff",
+    "component": "Oval point hex socket set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "65aa49876089d2c01c0bce47",
+    "component": "Hex head bolt grade A & B ISO 4014",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "a916ce4e0a4a5fe7c734fc02",
+    "component": "Hex nut grade A & B ISO 4032",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "02e545206e97d05cb9f6fe90",
+    "component": "Hex nut grade C ISO 4034",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "f6acefc45b5cf9bf42197095",
+    "component": "Plain washer normal grade A ISO 7089",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "927e32d9b346d6172790a8e7",
+    "component": "Plain washer large grade A ISO 7093-1",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "3d24b6ac4eb89f102c838052",
+    "component": "Clevis pin plain washer ISO 8738",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "b65c07993bb55f42e0dbf307",
+    "component": "Plain washer large grade A ISO 10669",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "248254f5aba8c9997f62648e",
+    "component": "Plain washer normal grade A ISO 10669",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "18e77433c78a381cf7ccc246",
+    "component": "Plain washer large grade A ISO 10673",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "affef12b9cb982d2a1576301",
+    "component": "Plain washer normal grade A ISO 10673",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "671750f416a4bd9f287226ee",
+    "component": "Plain washer small grade A ISO 10673",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "567d0fef9853c395ad9db336",
+    "component": "Slotted cheese head screw ISO 1207",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "a8150d7edb331c23d5acbfbc",
+    "component": "Hexalobular socket cheese head screw ISO 14580",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "e100b7397acb2d6ad2b9a132",
+    "component": "Hex socket countersunk head screw ISO 10642",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "34ac99136e3e067af57c82ff",
+    "component": "Hexalobular socket pan head screw ISO 14583",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "6d3be7314a554d258688cc8e",
+    "component": "Hexalobular socket pan head self-tapping screw ISO 14585",
+    "category": "Bolts & screws",
+    "class": "Self-tapping screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "36dce910b4ecbf59f41d7434",
+    "component": "Hexalobular socket countersunk self-tapping screw ISO 14586",
+    "category": "Bolts & screws",
+    "class": "Self-tapping screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "51d897aa1ebd1f7ca5966adc",
+    "component": "Slotted pan head screw ISO 1580",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "552605d8834e3a5f1af5f228",
+    "component": "Slotted countersunk flat head screw ISO 2009",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "d453c070d579c5de1cdec8ab",
+    "component": "Slotted raised countersunk head screw ISO 2010",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "7e3c2ddddf0ba5789847c26f",
+    "component": "Hex head bolt grade B ISO 4015",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "1973033f41cccff49d4af723",
+    "component": "Hex head bolt grade C ISO 4016",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "0a5d618aa9fe308acdc438c8",
+    "component": "Hex head screw grade A & B ISO 4017",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "9788a79ae10e511698ee35d2",
+    "component": "Hex head screw grade C ISO 4018",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "2ad3ca89fa545c85a32b643f",
+    "component": "Flat point hex socket set screw ISO 4026",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ISO"
+  },
+  {
+    "id": "a7667716939963362b13be43",
+    "component": "Dog point hex socket set screw ISO 4028",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ISO"
+  },
+  {
+    "id": "995dbb6cc44e81f1377c0fd7",
+    "component": "Cup point hex socket set screw ISO 4029",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ISO"
+  },
+  {
+    "id": "63eb6a97bbdf0785cf24298b",
+    "component": "Hex nut grade A & B ISO 4033",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "ce74571fb045a82a07229e4b",
+    "component": "Hex flange nut ISO 4161",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "c8ec74697382e315fbec1115",
+    "component": "Hex flange bolt small ISO 4162",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "da5fe16b33cc63bf8b9e7e78",
+    "component": "Hex socket head cap screw ISO 4762",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "51c2120c35d86190ffc7a6f4",
+    "component": "Flat point slotted set screw ISO 4766",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ISO"
+  },
+  {
+    "id": "49b90717e137c2f699aaf381",
+    "component": "Prevailing torque nut ISO 7040",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "71a3260145a5a73488b9758b",
+    "component": "Prevailing torque nut ISO 7041",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "b08233fbb1d0f2ca55a3e231",
+    "component": "Prevailing torque high nut ISO 7042",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "8ce3c43623083aaa08962126",
+    "component": "Prevailing torque flange nut ISO 7043",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "f0551aab4ae6f2eec2a807c3",
+    "component": "Prevailing torque flange nut ISO 7044",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "d0c37e7318796ad6170dd201",
+    "component": "PH Pan head screw ISO 7045",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "bb85f80711e95ef1833089a6",
+    "component": "PZ Pan head screw ISO 7045",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "7cbe7aad0876071756d90c32",
+    "component": "PH Countersunk flat head screw ISO 7046-1",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "39b4664b2d4c9c02b31242d1",
+    "component": "PZ Countersunk flat head screw ISO 7046-1",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "4328261e83230b4741387bad",
+    "component": "PH Raised countersunk head screw ISO 7047",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "1cc23eb95b7d8667f7e10401",
+    "component": "PZ Raised countersunk head screw ISO 7047",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "a81cd60294e33ccafa1a1933",
+    "component": "Chamfered plain washer normal ISO 7090",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "cfce6f617b6c01abfb5db5b7",
+    "component": "Plain washer normal grade C ISO 7091",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "2f5fd33a0c0cabc9241f800f",
+    "component": "Plain washer small grade A ISO 7092",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "b570f67d1a945af4fe922365",
+    "component": "Plain washer extra large grade C ISO 7094",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "ac631d5ef566811eee0d6c3e",
+    "component": "Socket head shoulder screw ISO 7379",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "58e48e1652e2e595367b89c4",
+    "component": "Socket button head screw ISO 7380",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "2683f5bc83210202f503e310",
+    "component": "Hex structural bolt grade C ISO 7411",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "b7f5b010d14ec8df10652ca0",
+    "component": "Hex structural nut grade B ISO 4775",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "6dc6aad4bde11e191538b362",
+    "component": "Hex structural nut grade B ISO 7414",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "8962cc1197bd627ff8989c36",
+    "component": "Plain washer hardened ISO 7415",
+    "category": "Washers",
+    "class": "Plain washers hardened",
+    "standard": "ISO"
+  },
+  {
+    "id": "9a41e2333b551f8d52a3ba28",
+    "component": "Chamfered plain washer hardened ISO 7416",
+    "category": "Washers",
+    "class": "Plain washers hardened",
+    "standard": "ISO"
+  },
+  {
+    "id": "ab4416043d18ecd2798cfc78",
+    "component": "Hex structural nut grade A ISO 7417",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "a0bd0f31ca147748d67460c6",
+    "component": "Cone point slotted set screw ISO 7434",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ISO"
+  },
+  {
+    "id": "b5d9147cfa16e1eae084974d",
+    "component": "Dog point slotted set screw ISO 7435",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ISO"
+  },
+  {
+    "id": "7ff8a3a5711a1d3fc87ef9b5",
+    "component": "Cup point slotted set screw ISO 7436",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "ISO"
+  },
+  {
+    "id": "7e8cfbebebcdccec3bb58e0c",
+    "component": "Prevailing torque regular nut ISO 7719",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "c4f4afbf8e3295bf6c93b301",
+    "component": "Prevailing torque nut ISO 7720",
+    "category": "Nuts",
+    "class": "Prevailing torque hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "4142858d75ac890db2e970a1",
+    "component": "Hex head screw grade A & B fine pitch ISO 8676",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "0ac82dfa205613f1f691b69d",
+    "component": "Hex head bolt grade A & B fine pitch ISO 8765",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "563fdfbda4e30add44d190cc",
+    "component": "Hex thin nut grade A & B ISO 4035",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "16b876b706bddab9e7b6c293",
+    "component": "Hex bolt structural short grade C ISO 7412",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "ISO"
+  },
+  {
+    "id": "472a4ce9bbd0c42337b277c7",
+    "component": "Hex nut structural grade A & B ISO 7413",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ISO"
+  },
+  {
+    "id": "edc1114f846f0b8fd75e6658",
+    "component": "Cone point hex socket set screw ISO 4027",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ISO"
+  },
+  {
+    "id": "2b2581f309faa3a3077777dc",
+    "component": "Hex nut grade A & B fine pitch ISO 8673",
+    "category": "Nuts",
+    "class": "Hex nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "f56d30a430af6ec1b2f1f82e",
+    "component": "Hex nut grade A & B fine pitch ISO 8674",
+    "category": "Nuts",
+    "class": "Hex nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "3a25e395eeea57de6b8b4e94",
+    "component": "Hex thin nut grade A & B fine pitch ISO 8675",
+    "category": "Nuts",
+    "class": "Hex nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "e9d84f7e010801719f7d0840",
+    "component": "Prevailing torque flange nut fine pitch ISO 12125",
+    "category": "Nuts",
+    "class": "Prevailing torque nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "4570e9608853cceb10d0fcf6",
+    "component": "Prevailing torque flange nut fine pitch ISO 12126",
+    "category": "Nuts",
+    "class": "Prevailing torque nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "2256c98f03bd9b83094312f2",
+    "component": "Prevailing torque nut fine pitch ISO 10512",
+    "category": "Nuts",
+    "class": "Prevailing torque nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "79cdf06290441484fbea9ea9",
+    "component": "Prevailing torque nut fine pitch ISO 10513",
+    "category": "Nuts",
+    "class": "Prevailing torque nuts fine pitch",
+    "standard": "ISO"
+  },
+  {
+    "id": "4bdf182f2973dcfc97addfa5",
+    "component": "Pan head miniature screw",
+    "category": "Bolts & screws",
+    "class": "Miniature screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "b8cabe998cef5203e4841c70",
+    "component": "Hex jam nut",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "9851f38af541bcc829f59859",
+    "component": "Hex slotted nut",
+    "category": "Nuts",
+    "class": "Hex slotted nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "c2b7f6dbd70c21444460f50c",
+    "component": "Hex cap screw",
+    "category": "Bolts & screws",
+    "class": "Hex bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "db00aec14524b23361737adf",
+    "component": "Socket button head cap screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "0b3e0ea24937cd3d1e5e24a8",
+    "component": "Pan slot head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d2f6a6fb25da418b49af56ed",
+    "component": "Pan head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2dbd55105cb80eb20e4eefea",
+    "component": "Oval countersunk head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "dec4b57175deaf5cbd4d0a69",
+    "component": "Hex washer machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "13126340677c358c8669cbc9",
+    "component": "Hex head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ffc047b2575a8e1d261a9cb8",
+    "component": "Flat countersunk head (82) machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "9701b1dc90facec176f7bd59",
+    "component": "Fillister head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "8262ee14dec62963b8327a0f",
+    "component": "Binding head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "b90a0d57a0fdcaf9eb734646",
+    "component": "Flat countersunk head (100) machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "aeacdc042a5ff6d9ce234a5f",
+    "component": "Truss head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2f9909503db1b3be6a4262b3",
+    "component": "Round head machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "802e44e2856b02216bad1e10",
+    "component": "Flat countersunk head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ac644bb3a340016aaa46d175",
+    "component": "Flat undercut countersunk head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "b0d6aca138155f128bc48cc8",
+    "component": "Oval undercut countersunk head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "277e7decf5530e795688c092",
+    "component": "Oval countersunk head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "0b24af27c97c5bacd2e119c6",
+    "component": "Flat countersunk trim head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "1e1ef0aab04046de7c484c8b",
+    "component": "Fillister head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "05be5fd6ec1f002679c617b9",
+    "component": "Hex head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "c42ffe1024fdd04f10883ae5",
+    "component": "Pan head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "f7e248e5e09e88c2af8039e4",
+    "component": "Hex washer head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "9a5160fbb09131364c01e433",
+    "component": "Oval countersunk trim head tapping screw",
+    "category": "Bolts & screws",
+    "class": "Tapping screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "1e2f916b439db2b17ae98c1d",
+    "component": "Round head short square neck bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2149cd65aec95b4acc8947ed",
+    "component": "Round head fin neck bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "295fff9ab88886d1d7549924",
+    "component": "Round head step bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "9f2f7dcfc71e3d6be904acc0",
+    "component": "Round head ribbed neck bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d8a10077d61dd0b21119b2ff",
+    "component": "Countersunk elevator bolt",
+    "category": "Bolts & screws",
+    "class": "Square head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "b5d331aec6b7dac0ebe22654",
+    "component": "Askew head bolt",
+    "category": "Bolts & screws",
+    "class": "Square head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "da4d54c99589b6585515440b",
+    "component": "T-head bolt",
+    "category": "Bolts & screws",
+    "class": "T-head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "50bd7f1152d8fe7a7075dc65",
+    "component": "Plain washer normal grade C ISO 7091",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "ISO"
+  },
+  {
+    "id": "9283f522464d8693a9821b3d",
+    "component": "Hex head screw grade A & B DIN EN 24017",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "6c6d3b4f0a2f61d4e756dde7",
+    "component": "Hex head bolt grade A & B DIN EN 24014",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "ab8b04a7ef4460dcfd1093ae",
+    "component": "Hex head screw grade A & B fine pitch DIN EN 28676",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "25a146db8c73ff81e79008a7",
+    "component": "Hex head bolt grade A & B fine pitch DIN EN 28765",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "2826d53c33679bca237d59ab",
+    "component": "Hex head bolt grade B DIN EN 24015",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "e9cc1a6b44602e30cb589d2f",
+    "component": "Hex head bolt grade C DIN 931-2",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "6312eb06a30c68a9187985e6",
+    "component": "Hex head screw grade C DIN EN 24018",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "403b4bf2051dd749d8b33e69",
+    "component": "Hex head bolt grade C DIN EN 24016",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "c6f2bd5eba8853eca1ecbf6f",
+    "component": "Hex socket head countersunk screw grade C DIN 7991",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "70b67e858cb421d90fec24d7",
+    "component": "Hex socket head cap screw DIN 7984",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "af40d00609cd59c9c9e3a25d",
+    "component": "Hex head structural bolt DIN 7990",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "65639cc97ce1b76b9976f358",
+    "component": "Hex bolt structural short grade C DIN 6914",
+    "category": "Bolts & screws",
+    "class": "Hex head bolts & screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "9e2cdf5d59737dd1575f2f23",
+    "component": "Slotted set screw with cup point DIN EN 27436",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "DIN"
+  },
+  {
+    "id": "dd01df7a71d246989f0b8865",
+    "component": "Slotted set screw with flat point DIN EN 24766",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "DIN"
+  },
+  {
+    "id": "798da8247a8d307c2964ae2c",
+    "component": "Slotted set screw with dog point DIN EN 27435",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "DIN"
+  },
+  {
+    "id": "6d00d5fc2f20bc6bdc38d6b9",
+    "component": "Slotted set screw with cone point DIN EN 27434",
+    "category": "Bolts & screws",
+    "class": "Set screws (slotted)",
+    "standard": "DIN"
+  },
+  {
+    "id": "41a7dd64abbee56454bfeaae",
+    "component": "Hex socket set screw with cup point DIN 916",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "DIN"
+  },
+  {
+    "id": "9ab18d40c1308e1f128e6eaf",
+    "component": "Hex socket set screw with flat point DIN 913",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "DIN"
+  },
+  {
+    "id": "49ccb005f0ec6eb9e2898f7c",
+    "component": "Hex socket set screw with dog point DIN 915",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "DIN"
+  },
+  {
+    "id": "fcb3dd77a143848e721d27e4",
+    "component": "Hex socket set screw with cone point DIN 914",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "DIN"
+  },
+  {
+    "id": "8c367b74fcffac52e88186bc",
+    "component": "PH Pan head screw DIN EN ISO 7045",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "2b118edff9c5a144ab797786",
+    "component": "PZ Pan head screw DIN EN ISO 7045",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "6568bbefed653e3a382852cf",
+    "component": "PH Countersunk flat head screw DIN EN ISO 7046-1",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "a5fbe091da00f78a9796b692",
+    "component": "PZ Countersunk flat head screw DIN EN ISO 7046-1",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "0884b55a67153be604535d17",
+    "component": "PH Raised countersunk head screw DIN EN ISO 7047",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "9c12885044c3ab5c81451a6f",
+    "component": "PZ Raised countersunk head screw DIN EN ISO 7047",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "00ea109e80c54eabfc560db9",
+    "component": "Slotted cheese head screw DIN EN ISO 1207",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "7d85138deab49e517011a94a",
+    "component": "Slotted pan head screw DIN EN ISO 1580",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "a56618c1473c79406f625b5b",
+    "component": "Slotted countersunk flat head screw DIN EN ISO 2009",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "3740992be811ee82f5e5e9bc",
+    "component": "Slotted raised countersunk head screw DIN EN ISO 2010",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "0ee2fc9dffa14b433e0b8008",
+    "component": "Hex set screw with half dog point and flat cone point DIN 564",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex head)",
+    "standard": "DIN"
+  },
+  {
+    "id": "a6098a9b2be498f80f95e823",
+    "component": "Hex set screw fine pitch with half dog point and flat cone point DIN 564",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex head)",
+    "standard": "DIN"
+  },
+  {
+    "id": "1fd209d7dc5f4415caf9ea8d",
+    "component": "Hex set screw with full dog point DIN 561",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex head)",
+    "standard": "DIN"
+  },
+  {
+    "id": "08c053629d100c82dcfa7a0a",
+    "component": "Hex set screw fine pitch with full dog point DIN 561",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex head)",
+    "standard": "DIN"
+  },
+  {
+    "id": "6250d8dfca29f8601be77631",
+    "component": "Self-clinching thru standoff NAS 1129",
+    "category": "Sheet metal fasteners",
+    "class": "Standoffs",
+    "standard": "NAS"
+  },
+  {
+    "id": "2b5b6ea41bde5ef39bad0625",
+    "component": "Self-clinching blind standoff NAS 1129",
+    "category": "Sheet metal fasteners",
+    "class": "Standoffs",
+    "standard": "NAS"
+  },
+  {
+    "id": "4ac4415a4fe051a69a3fec59",
+    "component": "Plain clinch flush nut NASM 3214",
+    "category": "Sheet metal fasteners",
+    "class": "Flush nuts",
+    "standard": "NAS"
+  },
+  {
+    "id": "a36b8b3d2a690bfe0b1d89d3",
+    "component": "Self-clinching flush nut NASM 45938/4",
+    "category": "Sheet metal fasteners",
+    "class": "Flush nuts",
+    "standard": "NAS"
+  },
+  {
+    "id": "3419bb7937f56c3e708995e1",
+    "component": "Hex head self-locking clinch nut NASM 45938/2",
+    "category": "Sheet metal fasteners",
+    "class": "Clinch nuts",
+    "standard": "NAS"
+  },
+  {
+    "id": "ad85ffb79a686f1a51fe5fdf",
+    "component": "Self-locking clinch nut without self-locking threads NASM 45938",
+    "category": "Sheet metal fasteners",
+    "class": "Clinch nuts",
+    "standard": "NAS"
+  },
+  {
+    "id": "e6984c2765239d5c4971e398",
+    "component": "Self-locking clinch nut with self-locking threads NASM 45938",
+    "category": "Sheet metal fasteners",
+    "class": "Clinch nuts",
+    "standard": "NAS"
+  },
+  {
+    "id": "cccc5409d9b1e37e04a874f2",
+    "component": "PH Pan head cross recess screw with collar DIN 967",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "c5a6297218803f938de12ffc",
+    "component": "Hex nut style 1 grade A & B DIN EN 24032",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "77427012b30d39c4043b9e78",
+    "component": "Hex nut style 1 grade A & B fine pitch DIN EN 28673",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "e4b6a50510059ed6673a4fa2",
+    "component": "Hex nut style 1 grade C DIN EN 24034",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "727c94e510207aa8ce878f5e",
+    "component": "Hex thin nut grade A & B DIN EN 24035",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "cf9cd2e4e996381f845a42c7",
+    "component": "Hex thin nut fine pitch grade A & B DIN EN 28675",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "bbc8d3b64fcfd543314ade54",
+    "component": "Hex nut style 2 grade A & B fine pitch DIN EN 28674",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "7883ddb3cdcacc4fa590dfd5",
+    "component": "Hex nut style 2 grade A & B DIN EN 24033",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "043bd83b98eaad6dea62755f",
+    "component": "Square thin nut grade B DIN 562",
+    "category": "Nuts",
+    "class": "Square nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "0f9352438c1e73bba601424c",
+    "component": "Square weld nut DIN 928",
+    "category": "Nuts",
+    "class": "Square nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "1a620da5a2857a2090ce9096",
+    "component": "Square nut grade C DIN 557",
+    "category": "Nuts",
+    "class": "Square nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "7d788c5bd4ff5148f899cdd9",
+    "component": "Lifting eye bolt DIN 580",
+    "category": "Bolts & screws",
+    "class": "Eye bolts",
+    "standard": "DIN"
+  },
+  {
+    "id": "e2c7d8bd92113f65e76ca1a0",
+    "component": "Eye bolt DIN 444",
+    "category": "Bolts & screws",
+    "class": "Eye bolts",
+    "standard": "DIN"
+  },
+  {
+    "id": "fc0251cf949a5d10163ac17e",
+    "component": "Hex socket head cap screw DIN 912",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "87b05278679f71dcc2847657",
+    "component": "Square head bolt with collar DIN 478",
+    "category": "Bolts & screws",
+    "class": "Square head bolts",
+    "standard": "DIN"
+  },
+  {
+    "id": "be1cbbc8cbd447436ce42629",
+    "component": "Square head bolt with short dog point DIN 479",
+    "category": "Bolts & screws",
+    "class": "Square head bolts",
+    "standard": "DIN"
+  },
+  {
+    "id": "36e4ceef9f777344a6407849",
+    "component": "Square head bolt collar and dog point DIN 480",
+    "category": "Bolts & screws",
+    "class": "Square head bolts",
+    "standard": "DIN"
+  },
+  {
+    "id": "87644ac33011b2ae5796a86f",
+    "component": "PZ Pan head cross recess screw with collar DIN 967",
+    "category": "Bolts & screws",
+    "class": "Cross recess head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "77a22c026cb137cd6cf0911e",
+    "component": "Slotted pan head screw with shoulder DIN 923",
+    "category": "Bolts & screws",
+    "class": "Slotted head screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "ca2bb5e8ee699415d5de5a17",
+    "component": "Wing screw DIN 316",
+    "category": "Bolts & screws",
+    "class": "Miscellaneous bolts",
+    "standard": "DIN"
+  },
+  {
+    "id": "2cd4597db00bd3ff2962ac1d",
+    "component": "Cross recessed pan head tapping screw with collar DIN 967",
+    "category": "Bolts & screws",
+    "class": "Self-tapping screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "ea3d05c11d8d8e69c3702ec5",
+    "component": "Cross recessed pan head tapping screw DIN EN ISO 7049",
+    "category": "Bolts & screws",
+    "class": "Self-tapping screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "0315fe345dd0b3f8d6be552e",
+    "component": "Cross recessed flat head countersunk tapping screw DIN 7050",
+    "category": "Bolts & screws",
+    "class": "Self-tapping screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "088bf355873f9e0380e39309",
+    "component": "Cross recessed oval head raised countersunk tapping screw DIN 7051",
+    "category": "Bolts & screws",
+    "class": "Self-tapping screws",
+    "standard": "DIN"
+  },
+  {
+    "id": "494d1ef9fa36511edaa43446",
+    "component": "Internal heavy retaining ring DIN 472",
+    "category": "Retaining rings",
+    "class": "Internal retaining rings",
+    "standard": "DIN"
+  },
+  {
+    "id": "fda4ba2995c471efbdfee05e",
+    "component": "Internal retaining ring DIN 472",
+    "category": "Retaining rings",
+    "class": "Internal retaining rings",
+    "standard": "DIN"
+  },
+  {
+    "id": "4f49468704ef21196ab5f388",
+    "component": "External heavy retaining ring DIN 471",
+    "category": "Retaining rings",
+    "class": "External retaining rings",
+    "standard": "DIN"
+  },
+  {
+    "id": "bf35ae4b6b4b2a66b9596a57",
+    "component": "External retaining ring DIN 471",
+    "category": "Retaining rings",
+    "class": "External retaining rings",
+    "standard": "DIN"
+  },
+  {
+    "id": "e6f91211d3fad41a38c59efa",
+    "component": "Round-head grooved drive stud",
+    "category": "Pins & studs",
+    "class": "Studs",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "179d878f72b4095d4b5abc8a",
+    "component": "Grooved T-head cotter pin",
+    "category": "Pins & studs",
+    "class": "Cotter pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "389a517b1b5b8c09e73722d5",
+    "component": "Slotted spring pin",
+    "category": "Pins & studs",
+    "class": "Spring pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "86df8a78137bd7e5a5f7f3ea",
+    "component": "Straight pin",
+    "category": "Pins & studs",
+    "class": "Dowel & straight pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "c4cd3706b12d8e83acef17b1",
+    "component": "Ground dowel pin",
+    "category": "Pins & studs",
+    "class": "Dowel & straight pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "42f83410dd7300b810835816",
+    "component": "Hardened ground production dowel pin",
+    "category": "Pins & studs",
+    "class": "Dowel & straight pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "c04f0990c45614e6e122769c",
+    "component": "Hardened ground machine dowel pin",
+    "category": "Pins & studs",
+    "class": "Dowel & straight pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "776a4b4bd5f3bf0e3fdef53b",
+    "component": "Parallel pin ISO 8734",
+    "category": "Pins",
+    "class": "Parallel pins",
+    "standard": "ISO"
+  },
+  {
+    "id": "08f65969015f71d75e5f49c1",
+    "component": "Parallel pin DIN EN ISO 8734",
+    "category": "Pins",
+    "class": "Parallel pins",
+    "standard": "DIN"
+  },
+  {
+    "id": "03647537466e6837bfd473e1",
+    "component": "External retaining ring ANSI",
+    "category": "Retaining rings",
+    "class": "External retaining rings",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "30eaf8cbdb16d527eb671d50",
+    "component": "Internal retaining ring ANSI",
+    "category": "Retaining rings",
+    "class": "Internal retaining rings",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "e46cce4626c6ea05a26ecbb7",
+    "component": "Commercial class taper pin",
+    "category": "Pins & studs",
+    "class": "Dowel & straight pins",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "6ef74964e6c32ca0d8d6d0ce",
+    "component": "S™/SS™/CLS™/CLSS™/SP™ Self-clinching nuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "1f5657fdc63930950ea70caa",
+    "component": "SMPS™/SMPP™ Nuts (For thin sheets)",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "6b49a7042fb0279fdcfeea4f",
+    "component": "SL™ TRI-DENT® Prevailing torque locknuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "7a1df4f6cee5999410c34c63",
+    "component": "SH™ Hard panel nuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "5581cd6e0182db65cd1b30c1",
+    "component": "S-RT™ Free-running locknuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "648038d44e8d1cc5943d52ad",
+    "component": "H™ Nuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "4f7725c5981ee6f593304498",
+    "component": "HNL™ Prevailing torque locknuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "9d17ff500f202bbb48ee8235",
+    "component": "CLA™ Self-clinching nuts",
+    "category": "Unified",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "9ab2c0a94213c6e2d31f716c",
+    "component": "TSO™/TSOS™/TSOA™/TSO4™ Threaded standoffs for thin sheets",
+    "category": "Unified",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "933a12930e3e4001dfaee0c1",
+    "component": "SO™/SOS™/SOA™/SO4™ Through-hole unthreaded standoffs",
+    "category": "Unified",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "6fa31a6023a23c958c6075b8",
+    "component": "SO™/SOS™/SOA™/SO4™ Through-hole threaded standoffs",
+    "category": "Unified",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "ac797db2bbadfa852fd38cd5",
+    "component": "SOSG™/SOAG™ Grounding standoffs",
+    "category": "Unified",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "638f81a1f0c5dd57c6a9d880",
+    "component": "DSOS™/DSO™ Threaded standoffs (for close-to-edge applications)",
+    "category": "Unified",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "78d86d348aebc8b318d4ab88",
+    "component": "BSO™/BSOS™/BSOA™/BSO4™ Blind threaded standoffs",
+    "category": "Unified",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "6486f47556e99e877dd14aa2",
+    "component": "S™/SS™/CLS™/CLSS™/SP™ Self-clinching nuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "2038559c3f6970de294798a8",
+    "component": "SMPS™/SMPP™ Nuts (For thin sheets)",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "5b2f05071411e2fa0f106f3f",
+    "component": "SL™ TRI-DENT® Prevailing torque locknuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "a37d53b86a2bdf62ea34b3ae",
+    "component": "SH™ Hard panel nuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "9f59a0a871c708d0cd2d43df",
+    "component": "S-RT™ Free-running locknuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "f458d785890472b8ed510948",
+    "component": "H™ Nuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "618f9033dde41fb7297b5536",
+    "component": "HNL™ Prevailing torque locknuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "71d1d03b53d271987ba06028",
+    "component": "CLA™ Self-clinching nuts",
+    "category": "Metric",
+    "class": "Self-clinching nuts",
+    "standard": "PEM®"
+  },
+  {
+    "id": "0478ad2a36ad7e4b7aa85da7",
+    "component": "SO™/SOS™/SOA™/SO4™ Through-hole unthreaded standoffs",
+    "category": "Metric",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "79278c35cb724411a31e1ecd",
+    "component": "TSO™/TSOS™/TSOA™/TSO4™ Threaded standoffs for thin sheets",
+    "category": "Metric",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "df0f3b6a918959858b8dd1e7",
+    "component": "SO™/SOS™/SOA™/SO4™ Through-hole threaded standoffs",
+    "category": "Metric",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "ee6fb64b700c17e9bdadd080",
+    "component": "SOSG™/SOAG™ Grounding standoffs",
+    "category": "Metric",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "1b297ea1ec3b72544db6acee",
+    "component": "DSOS™/DSO™ Threaded standoffs (For close-to-edge applications)",
+    "category": "Metric",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "2822c454ce56982d40f39cf0",
+    "component": "BSO™/BSOS™/BSOA™/BSO4™ Blind threaded standoffs",
+    "category": "Metric",
+    "class": "Self-clinching standoffs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "ca6935b48f3012c7e72964d4",
+    "component": "TPXS™ Self-clinching pilot pins",
+    "category": "Metric",
+    "class": "Self-clinching pins",
+    "standard": "PEM®"
+  },
+  {
+    "id": "594b20ce14a98ac84af48ff6",
+    "component": "TPS™/TP4™ Flush-head pilot pins",
+    "category": "Metric",
+    "class": "Self-clinching pins",
+    "standard": "PEM®"
+  },
+  {
+    "id": "c861b46541e424d54fdcf051",
+    "component": "FH™/FHS™/FHA™ Flush-head pins",
+    "category": "Metric",
+    "class": "Self-clinching pins",
+    "standard": "PEM®"
+  },
+  {
+    "id": "2ba86c85e5a2875d4b999be6",
+    "component": "FHX™ Flush-head studs with X-Press™ thread profile",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "384e30213ed1f04c3d451665",
+    "component": "SGPC™ Swaging collar studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "b84f3bd04a5a8599e382cbd8",
+    "component": "HFLH™ Hard panel studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "caeca6c17974862dc8a387f0",
+    "component": "HF109­­™ Heavy-duty, high tensile strength studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "11bf9c80642607b47b789445",
+    "component": "HFH™/HFHS™/HFHB™ Heavy-duty studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "8f45e742b386878a9266bf98",
+    "component": "HFE™/THFE™ Heavy-duty studs for thin sheets",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "2b0bf1190da4ae73e97064c4",
+    "component": "TFH™/TFHS™ Non-flush studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "fa203d33f36d9880d66d4a3b",
+    "component": "FHL™/FHLS™ Flush, Low-displacement head studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "e6156fd1a2f8289f5c54739a",
+    "component": "FH4™/FHP™ Flush-head studs for stainless steel sheets",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "4e9757d3b8f5c8dba42ee090",
+    "component": "FH™/FHS™/FHA™ Flush-head studs",
+    "category": "Metric",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "78e4aa66458f5a5e90e25739",
+    "component": "TPS™/TP4™ Flush-head pilot pins",
+    "category": "Unified",
+    "class": "Self-clinching pins",
+    "standard": "PEM®"
+  },
+  {
+    "id": "ab7974163377246833163e63",
+    "component": "FH™/FHS™/FHA™ Flush-head pins",
+    "category": "Unified",
+    "class": "Self-clinching pins",
+    "standard": "PEM®"
+  },
+  {
+    "id": "1ad2edfbb83ce075720ae3fa",
+    "component": "TFH™/TFHS™ Non-flush studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "2f3748f159171d01e4ebdd8e",
+    "component": "SGPC™ Swaging collar studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "33444e488ca4189f2d6fe442",
+    "component": "HFLH™ Hard panel studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "0a5ac0c5084cb14f9abc8cc4",
+    "component": "HFG8­­™ Heavy-duty, high tensile strength studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "8830a72246ed0596682ae797",
+    "component": "HFE™/THFE™ Heavy-duty studs for thin sheets",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "0dbf3bf85f0e81e586161aa0",
+    "component": "HFH™/HFHS™/HFHB™ Heavy-duty studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "786dc0de2c370bb8b7b3299d",
+    "component": "FHL™/FHLS™ Flush, Low-displacement head studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "23347d34e49b1c38d459bf9a",
+    "component": "FH4™/FHP™ Flush-head studs for stainless steel sheets",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "cf43cb87ec4685d2ccc0321b",
+    "component": "FH™/FHS™/FHA™ Flush-head studs",
+    "category": "Unified",
+    "class": "Self-clinching studs",
+    "standard": "PEM®"
+  },
+  {
+    "id": "3428e366e2613f91071e7c43",
+    "component": "Conical spring lock washer DIN 6796",
+    "category": "Washers",
+    "class": "Lock washers",
+    "standard": "DIN"
+  },
+  {
+    "id": "0628a84a2a7a98fe5332b454",
+    "component": "Conical spring lock washer DIN 6908",
+    "category": "Washers",
+    "class": "Lock washers",
+    "standard": "DIN"
+  },
+  {
+    "id": "e45b9e41670c61042e233eb5",
+    "component": "Spring lock washer DIN 127 Type B",
+    "category": "Washers",
+    "class": "Lock washers",
+    "standard": "DIN"
+  },
+  {
+    "id": "23642c34d1d1f94182e24c45",
+    "component": "Spring lock washer DIN 127 Type A",
+    "category": "Washers",
+    "class": "Lock washers",
+    "standard": "DIN"
+  },
+  {
+    "id": "c534a0a9b4f1cab3b70e63df",
+    "component": "Content name feature",
+    "category": "Custom features",
+    "class": "Content naming features",
+    "standard": "Onshape internal"
+  },
+  {
+    "id": "c80666b5e67b326e31b88715",
+    "component": "Content name feature",
+    "category": "Custom features",
+    "class": "Content naming features",
+    "standard": "Onshape internal"
+  },
+  {
+    "id": "ac75b7cd5e90168ed1257d8e",
+    "component": "AS568 D O-rings",
+    "category": "O-rings",
+    "class": "Round O-rings",
+    "standard": "SAE"
+  },
+  {
+    "id": "784a81af7582fbb803dca6fd",
+    "component": "ISO 3601-1:2012 O-rings for industrial applications",
+    "category": "O-rings",
+    "class": "Round O-rings",
+    "standard": "ISO"
+  },
+  {
+    "id": "74f378d2fa50c5d6794575ed",
+    "component": "ISO 3601-1:2012 O-rings for aerospace applications",
+    "category": "O-rings",
+    "class": "Round O-rings",
+    "standard": "ISO"
+  },
+  {
+    "id": "d6c2ca53a3c4579bbf5a9eb7",
+    "component": "B17.1 Tapered key",
+    "category": "Keys",
+    "class": "Tapered keys",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "b968ea259d1b9f98e4bfa690",
+    "component": "B17.1 Standard parallel key",
+    "category": "Keys",
+    "class": "Parallel keys",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "ada8966a4af44a77cee48ff2",
+    "component": "DIN 6885-1 Parallel keys",
+    "category": "Keys",
+    "class": "Parallel keys",
+    "standard": "DIN"
+  },
+  {
+    "id": "f97efa5d65f36d4660e0cd32",
+    "component": "DIN 6886 Stressed tapered key",
+    "category": "Keys",
+    "class": "Tapered keys",
+    "standard": "DIN"
+  },
+  {
+    "id": "888c9e24f710ec57662184d0",
+    "component": "DIN 6883 Tapered key",
+    "category": "Keys",
+    "class": "Tapered keys",
+    "standard": "DIN"
+  },
+  {
+    "id": "8ac89d1868fee0a533f14e66",
+    "component": "Round head bolt",
+    "category": "Bolts & screws",
+    "class": "Round head bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "308bff6c18a8089e22db5a3d",
+    "component": "Parallel pins ISO 2338",
+    "category": "Pins",
+    "class": "Parallel pins",
+    "standard": "ISO"
+  },
+  {
+    "id": "fe8aab155c7d3cf36fbf30af",
+    "component": "Flat countersunk head (82) machine screw",
+    "category": "Bolts & screws",
+    "class": "Machine screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "2908fc8656c1df68c1688675",
+    "component": "Socket head cap screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "3827f60858ad749993ffd76b",
+    "component": "Countersunk bolt",
+    "category": "Bolts & screws",
+    "class": "Countersunk bolts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "d7ce5cae5417a9940c20eb1e",
+    "component": "Socket head cap screw",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "4a067527589a8d8ecdb07106",
+    "component": "Plain washer grade A DIN 125-1",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "DIN"
+  },
+  {
+    "id": "bd906b859dc8174fee4c9d50",
+    "component": "Plain washer grade A DIN 125-2",
+    "category": "Washers",
+    "class": "Plain washers",
+    "standard": "DIN"
+  },
+  {
+    "id": "68a855fcc3b8a3f4b1f2362b",
+    "component": "Prevailing torque hex thin nut grade A & B DIN 985",
+    "category": "Nuts",
+    "class": "Hex nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "336e5e2929d2addd52df6560",
+    "component": "Nylon tip hex socket set screw",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "35cc87bc6eb258f3aab55968",
+    "component": "Nylon tip hex socket set screw ISO 4028",
+    "category": "Bolts & screws",
+    "class": "Set screws (hex socket)",
+    "standard": "ISO"
+  },
+  {
+    "id": "0ec4412d98f15ffcebfefc14",
+    "component": "Hardened structural washer",
+    "category": "Washers",
+    "class": "Hardened washers",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "a774445c62e7c3bbc6013cde",
+    "component": "Hex castle nut grade A & B DIN 935-1",
+    "category": "Nuts",
+    "class": "Hex slotted nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "f9e1536505f131ee090a0df7",
+    "component": "Hex slotted nut grade C DIN 935-3",
+    "category": "Nuts",
+    "class": "Hex slotted nuts",
+    "standard": "DIN"
+  },
+  {
+    "id": "d79f0cc63876e51bb8bcf187",
+    "component": "Hex thin lock nut with nylon insert",
+    "category": "Nuts",
+    "class": "Hex lock nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "58af2b9997611b8091ab8b56",
+    "component": "Hex lock nut with nylon insert",
+    "category": "Nuts",
+    "class": "Hex lock nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "fbcdb4bd8957a258791997a6",
+    "component": "Hex lock nut",
+    "category": "Nuts",
+    "class": "Hex lock nuts",
+    "standard": "ANSI inch"
+  },
+  {
+    "id": "43f591fc46c2df57df606d4d",
+    "component": "Socket head cap screw with low head",
+    "category": "Bolts & screws",
+    "class": "Socket head screws",
+    "standard": "ANSI inch"
+  }
+]
